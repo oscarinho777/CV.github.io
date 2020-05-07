@@ -479,7 +479,6 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
-  
 }
 
 .img-thumbnail {
@@ -10106,6 +10105,10 @@ h3 {
 .masthead .masthead-avatar {
   width: 15rem;
   border-radius: 50% 50% 50% 50%;
+}
+
+#perfil:hover{
+  content: url(../assets/img/perfil/Medeallas.jpg);
 }
 
 @media (min-width: 992px) {
