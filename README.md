@@ -1,14 +1,14 @@
-# cv
+# CV
+
 Probamos plantilla de bootstrap para un cv
-Esta plantilla: https://startbootstrap.com/previews/freelancer/
+Esta plantilla: [Freelancer](https://startbootstrap.com/previews/freelancer/)
 
-Para mi CV agregue:
+### Techs:
 
--Animación CSS
--Cambio en la paleta de colores
--Cambio en el uso de grillas
--Cambio del formulario de contacto
--Reducción de tiempo de carga de la pagina
--Indicaciones en condigo para proximás actualizaciones
+* Animación CSS
+* Cambio en la paleta de colores
+* Cambio en el uso de grillas
+* Cambio del formulario de contacto
+* Reducción de tiempo de carga de la pagina
+* Indicaciones en condigo para proximás actualizaciones
 
-/**********************GRACIAS_V1*********************/
