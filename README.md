@@ -1,11 +1,11 @@
 > [!NOTE]
 > Enlaces a página de repositorio:
-> url: https://geoquimica-gomez.github.io/
+> url: https://oscarzunigatrejos.github.io/
 > Enlaces a los repositorios de los compañeros:
 >- [Luis Subiabre](https://github.com/geoquimica-gomez/luissubiabre.github.io)
->- [Josefa Zuniga](https://github.com/geoquimica-gomez/proyecto-final)
+>- [Paz Arancibia](https://nindecita.github.io/Prueba-creando-portafolio/)
 
-# Portafolio de Oriana Gómez
+# Portafolio de Oscar Zúñiga Trejos
 
 ## Prueba para desafio 6 de Academia desafio Latam
 
@@ -13,7 +13,7 @@
 
 ## Acerca de mí
 
-Soy Oscar Zúñiga Trejos, 
+Soy Oscar Zúñiga Trejos, soy un emprendedor, Ingeniero Comercial de la UNAB.
 
 ## Tecnologías utilizadas en este proyecto
 
